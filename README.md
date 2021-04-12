@@ -4,6 +4,5 @@ Hello 👋 I'm Sundaramoorthy Vithujan
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on MERN Stack
 - 💬 Ask me about Java, Python, JavaScript
-- 📫 How to reach me: http://github.com - automatic!
-[GitHub](http://github.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vithujan/)
 - ⚡ Fun fact: Machines are better than humans.
