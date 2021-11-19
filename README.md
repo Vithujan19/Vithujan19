@@ -1,6 +1,6 @@
 Hello 👋 I'm Sundaramoorthy Vithujan
 
-- 🔭 I’m currently an Undergraduate at University of Moratuwa
+- 🔭 I’m currently an DevOps Intern & Undergraduate at University of Moratuwa
 - 🌱 I’m currently learning MERN Stack, Flutter and Cyber
 - 👯 I’m looking to collaborate on MERN Stack
 - :writing_hand: I blog in : [Vithujan's Blog](https://vithujan.medium.com/)
